@@ -1,0 +1,48 @@
+@media (max-width: 991.98px) {
+
+    .footer-search {
+        max-width: 200px;
+    }
+
+}
+
+@media (max-width: 763.00px) {
+
+    .footer-search {
+        display: none;
+    }
+
+    .header-action {
+        position: absolute;
+        right: 40px;
+        display: block;
+    }
+}
+
+
+@media (max-width: 444.00px) {
+
+    .footer-search {
+        display: none;
+    }
+
+    .header-action {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .col-4.right {
+        display: none;
+    }
+
+    .col-4.left {
+        width: 100% !important; 
+
+    }
+
+    #player
+    {
+        width: 100%;
+    }
+}

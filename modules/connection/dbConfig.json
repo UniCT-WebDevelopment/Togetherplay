@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "progetto2",
+    "databasename": "progetto2",
+    "multipleStatements": true
+}
